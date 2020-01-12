@@ -7,6 +7,8 @@
 #  area        :integer
 #  population  :integer
 #  gdp         :integer
+#  test change to repo
+# change 2
 
 require_relative './sqlzoo.rb'
 
